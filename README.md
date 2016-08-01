@@ -7,9 +7,11 @@ The front end is built with *Ember 2.3*, while *Rails 5* was used to build the b
 ### To install:
 1. Clone the repo (of course).  
 
-2. cd into "blog-frontend" directory and run "npm install" followed by "bower install". Run "ember s" to start the ember app (Note: You might NEED to run "ember s --proxy http://localhost:3000" instead but most likely not).
+2. cd into "blog-frontend" directory and run "npm install" followed by "bower install".
+Run "ember s" to start the ember app (Note: You might need to run "ember s --proxy http://localhost:3000" instead but most likely not).
 
-3. cd into the "blog-backend" directory and run "bundle exec rake db:create", then "db:migrate".  Run "rails s" to start the Rails API server.
+3. cd into the "blog-backend" directory and run "bundle exec rake db:create", then "bundle exec rake db:migrate".  
+Run "rails s" to start the Rails API server.
 
 Enjoy.
 
