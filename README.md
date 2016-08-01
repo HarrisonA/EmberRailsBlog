@@ -13,7 +13,7 @@ The front end is built with *Ember 2.3*, while *Rails 5* was used to build the b
 
 Enjoy.
 
-### NOTE:### The original purpose of this app was to quickly build a simple Ember 2.x frontend that could communicate with Rails 5 on the backend. This app started from the tutorial: http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/
+### NOTE: ### The original purpose of this app was to quickly build a simple Ember 2.x frontend that could communicate with Rails 5 on the backend. This app started from the tutorial: http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/
 I had to make quite a few changes from their instructions to get it to work for me.
 
 ### Note: Styling, advance functionality, etc will be added at a later date. ###
